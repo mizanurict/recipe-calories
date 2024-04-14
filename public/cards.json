@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Chicken Stir-Fry",
+      "recipe_image": "https://i.ibb.co/2vL5LNR/annie-spratt-o-T7-v-I0h-Hg-unsplash.jpg",
+      "short_description": "A delicious and easy-to-make chicken stir-fry.",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom"],
+      "preparing_time": 30,
+      "calories": 320
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Vegetable Pasta",
+      "recipe_image": "https://i.ibb.co/qsmpQc4/nadine-primeau-ft-Wfohtj-Nw-unsplash.jpg",
+      "short_description": "A hearty and nutritious vegetable pasta dish.",
+      "ingredients": ["300 g pasta", "150 g broccoli", "100 g cherry tomatoes", "50 g Parmesan cheese"],
+      "preparing_time": 25,
+      "calories": 280
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Grilled Salmon",
+      "recipe_image": "https://i.ibb.co/09f7MYV/casey-lee-awj7s-Rvi-VXo-unsplash.jpg",
+      "short_description": "Tender and flavorful grilled salmon fillets.",
+      "ingredients": ["4 salmon fillets", "60 ml lemon juice", "30 ml olive oil", "2 cloves garlic"],
+      "preparing_time": 20,
+      "calories": 350
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Caprese Salad",
+      "recipe_image": "https://i.ibb.co/VMwzkJ2/alina-chernysheva-oj2h-Bf5-TOFM-unsplash.jpg",
+      "short_description": "A classic Italian salad with fresh tomatoes, mozzarella, and basil.",
+      "ingredients": ["3 large tomatoes", "200 g fresh mozzarella", "50 g fresh basil", "30 ml balsamic vinegar"],
+      "preparing_time": 15,
+      "calories": 200
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Beef Tacos",
+      "recipe_image": "https://i.ibb.co/WF2KWXf/krish-parmar-u-Qx8w-PEs8-II-unsplash.jpg",
+      "short_description": "Spicy beef tacos with all the fixings.",
+      "ingredients": ["500 g ground beef", "8 taco shells", "1 onion", "1 bell pepper", "100 g shredded lettuce"],
+      "preparing_time": 35,
+      "calories": 400
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Vegetable Curry",
+      "recipe_image": "https://i.ibb.co/fkXGg9W/sanket-shah-e-EWlcfydz-Q4-unsplash.jpg",
+      "short_description": "A flavorful and aromatic vegetable curry.",
+      "ingredients": ["400 g mixed vegetables", "200 ml coconut milk", "100 g curry paste", "150 g rice"],
+      "preparing_time": 40,
+      "calories": 300
+    }
+  ]
+  
